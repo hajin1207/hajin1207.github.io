@@ -18,3 +18,5 @@ redirect_from:
 또한 AI와 데이터 분석을 구매 업무에 접목하여 보다 효율적이고 스마트한 구매 프로세스를 만들어가고 있습니다.
 
 # e-mail adress : hajin1207@naver.com
+## Country : South Korea
+### City : hanam si
